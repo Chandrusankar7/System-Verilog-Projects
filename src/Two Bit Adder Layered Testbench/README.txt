@@ -1,0 +1,1 @@
+A layered testbench refers to the complete verfication environment for a DUT/RTL design. I considered a 2-bit addder DUT and made a layered testbench using generator, driver, top module, clocking block, interface, etc..,
