@@ -1,0 +1,1 @@
+System Verilog has an extension of many data types from Verilog such as bit, byte, int, shortint, longint, static array, dynamic array, associative arrya, queue, enum, typedef. Examples of these data types are available in this code.
